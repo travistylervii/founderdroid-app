@@ -19,7 +19,7 @@ const PrivacyPolicyPage = () => {
         <li>
           <strong>Usage Data:</strong> We collect information on how the API is
           accessed and used. This may include information such as your
-          computer's Internet Protocol address (e.g., IP address), browser type,
+          computer&apos;s Internet Protocol address (e.g., IP address), browser type,
           browser version, the pages of our API that you visit, the time and
           date of your visit, the time spent on those pages, and other
           diagnostic data.
@@ -73,9 +73,9 @@ const PrivacyPolicyPage = () => {
         security.
       </p>
 
-      <h2>Children's Privacy</h2>
+      <h2>Children&apos;s Privacy</h2>
       <p>
-        Our API does not address anyone under the age of 18 ("Children"). We do
+        Our API does not address anyone under the age of 18 (&quot;Children&quot;). We do
         not knowingly collect personally identifiable information from anyone
         under the age of 18.
       </p>
