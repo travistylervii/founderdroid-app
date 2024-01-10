@@ -1,6 +1,6 @@
 const PrivacyPolicyPage = () => {
   return (
-    <div>
+    <div className="container mx-auto">
       <h1>Privacy Policy for api.founderdroid.com</h1>
       <p>
         <strong>Last Updated: 01/10/2024</strong>
